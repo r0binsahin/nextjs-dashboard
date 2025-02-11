@@ -9,6 +9,7 @@ import { Suspense } from 'react';
 import {
   LatestInvoicesSkeleton,
   RevenueChartSkeleton,
+  CardsSkeleton,
 } from '@/app/ui/skeletons';
 
 export default async function Page() {
